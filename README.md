@@ -1,34 +1,62 @@
 # 💫 About Me:
-👩‍💻 Hi! I’m Sharmila Bhaduri
-A motivated BCA graduate with a passion for Backend Development, Web Development, and Artificial Intelligence. I love building efficient, real-world applications and exploring innovative technologies.
+# 🌟 Hi, I'm Sharmila Bhaduri! 👩‍💻
 
-✨ Skills & Expertise:
-🔹 Backend Development: C, C++, Java, Python, DSA (C++, Java)
-🔹 Web Development: HTML, CSS, JavaScript, Frontend fundamentals
-🔹 Artificial Intelligence & Data Processing: Python, OpenCV, Matplotlib, Numpy
-🔹 Database & System Knowledge: DBMS, Operating Systems, Networking
-🔹 Soft Skills: Problem Solving, Teamwork, Communication, Leadership
+✨ **Motivated BCA Graduate | Backend & Web Developer | AI Enthusiast | Problem Solver** ✨  
 
-🚀 Projects & Experience:
-🤖 AI Image-Based Processing (IEMLabs) — Hands-on project with excellent grade 'O'
-💻 Web & Backend Projects: Implemented multiple programs in C, C++, Java, Python
-🛠️ Workshops & Trainings: Ethical Hacking, Cybersecurity, Business of Building Trust, E-Prabesh
+Welcome to my GitHub! I am passionate about **building real-world software solutions**, exploring **Artificial Intelligence**, and mastering **full-stack development**.  
+I love combining **logic, creativity, and technology** to make impactful projects.  
 
-🌈 Achievements & Highlights:
-🏆 Consistently excellent academic performance: BCA CGPA 8.47, Higher Secondary 478/500 (Grade O)
-🏅 Certified in AI Training, Ethical Hacking Workshop, and Computer Application courses
-💡 Active contributor on GitHub, LeetCode, Hackerrank, Stack Overflow, W3Schools
+---
 
-🎯 Goals & Vision:
-🔸 Begin my career as a Software Developer / Backend Developer
-🔸 Build impactful, growth-oriented software solutions
-🔸 Continuously learn, explore, and apply modern technologies
-🔸 Evolve into a full-stack and AI-driven developer
+## 🎯 **My Skills & Expertise**  
 
-🌟 Fun Facts:
-💻 Passionate about coding, AI, and solving real-world problems
-🎨 Love creating innovative projects and sharing knowledge with the community
-🚀 Always curious, always learning, and always aiming higher
+- 🔹 **Backend Development:** C, C++, Java, Python, DSA (C++, Java)  
+- 🔹 **Web Development:** HTML, CSS, JavaScript, Frontend fundamentals  
+- 🔹 **Artificial Intelligence & Data Processing:** Python, OpenCV, Matplotlib, NumPy  
+- 🔹 **Database & System Knowledge:** DBMS, Operating Systems, Networking  
+- 🔹 **Soft Skills:** Communication, Problem Solving, Teamwork, Leadership  
+- 🔹 **Tools & Platforms:** Git, GitHub, Vercel, Hackerrank, LeetCode, Stack Overflow  
+
+---
+
+## 🚀 **Projects & Hands-On Experience**
+
+- 🤖 **AI Image-Based Processing (IEMLabs)** — Completed successfully with grade **O**  
+- 💻 **Web & Backend Projects:** Developed multiple projects in **C, C++, Java, Python**  
+- 🛡️ **Workshops & Trainings:** Ethical Hacking & Cybersecurity, Data Analysis & Risk Management  
+- 📊 **Business Workshops:** Building Trust & Profits, E-Prabesh (Skill Development)  
+
+---
+
+## 🏆 **Achievements & Academic Excellence**
+
+- 🎓 **BCA (Bankura University)** — CGPA 8.47 | Grade A+  
+- 📚 **Higher Secondary (WB Board)** — 478/500 | Grade O  
+- 🏅 Certified in **AI Training**, **Ethical Hacking**, and **Computer Application Courses**  
+- 🌟 Active contributor on **GitHub, LeetCode, Hackerrank, Stack Overflow, W3Schools**  
+
+---
+
+## 🌈 **What Drives Me**
+
+- 🔹 Passion for **learning new technologies** and solving complex problems  
+- 🔹 Enthusiastic about **AI, Machine Learning, and Data Processing**  
+- 🔹 Building **efficient, real-world, growth-oriented software solutions**  
+- 🔹 Constantly improving **coding, teamwork, and leadership skills**  
+
+---
+
+## 💡 **Fun Facts & Personal Touch**
+
+- 💻 I love **coding, AI projects, and problem-solving challenges**  
+- 🎨 Creativity fuels my **Web Development & AI Projects**  
+- 🌟 Always curious, always learning, always striving for excellence  
+- 🚀 Believe in combining **technology + logic + creativity** to make the world better  
+
+---
+
+
+✨ Let's connect, collaborate, and build **innovative, impactful software solutions** together! 🚀
 
 
 ## 🌐 Socials:
