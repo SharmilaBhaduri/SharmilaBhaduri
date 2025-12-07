@@ -1,5 +1,5 @@
 # 💫 About Me:
-BCA (Hons.) graduate skilled in front-end and basic back-end development. I have strong fundamentals in databases, operating systems, and networking. I am passionate about coding, algorithms, and creating effective web solutions.
+A detail-oriented BCA (Hons.) graduate with a strong foundation in full-stack development, seeking a Software Developer or Web Developer role. Proficient in front-end technologies (HTML, CSS, JavaScript) and back-end fundamentals in C++ with Data Structures & Algorithms. Possesses complementary knowledge of Databases, Operating Systems, and Networking. Eager to apply and enhance technical skills to contribute to innovative projects and gain practical experience in a dynamic, collaborative environment.
 
 
 ## 🌐 Socials:
