@@ -1,5 +1,34 @@
 # 💫 About Me:
-A detail-oriented BCA (Hons.) graduate with a strong foundation in full-stack development, seeking a Software Developer or Web Developer role. Proficient in front-end technologies (HTML, CSS, JavaScript) and back-end fundamentals in C++ with Data Structures & Algorithms. Possesses complementary knowledge of Databases, Operating Systems, and Networking. Eager to apply and enhance technical skills to contribute to innovative projects and gain practical experience in a dynamic, collaborative environment.
+👩‍💻 Hi! I’m Sharmila Bhaduri
+A motivated BCA graduate with a passion for Backend Development, Web Development, and Artificial Intelligence. I love building efficient, real-world applications and exploring innovative technologies.
+
+✨ Skills & Expertise:
+🔹 Backend Development: C, C++, Java, Python, DSA (C++, Java)
+🔹 Web Development: HTML, CSS, JavaScript, Frontend fundamentals
+🔹 Artificial Intelligence & Data Processing: Python, OpenCV, Matplotlib, Numpy
+🔹 Database & System Knowledge: DBMS, Operating Systems, Networking
+🔹 Soft Skills: Problem Solving, Teamwork, Communication, Leadership
+
+🚀 Projects & Experience:
+🤖 AI Image-Based Processing (IEMLabs) — Hands-on project with excellent grade 'O'
+💻 Web & Backend Projects: Implemented multiple programs in C, C++, Java, Python
+🛠️ Workshops & Trainings: Ethical Hacking, Cybersecurity, Business of Building Trust, E-Prabesh
+
+🌈 Achievements & Highlights:
+🏆 Consistently excellent academic performance: BCA CGPA 8.47, Higher Secondary 478/500 (Grade O)
+🏅 Certified in AI Training, Ethical Hacking Workshop, and Computer Application courses
+💡 Active contributor on GitHub, LeetCode, Hackerrank, Stack Overflow, W3Schools
+
+🎯 Goals & Vision:
+🔸 Begin my career as a Software Developer / Backend Developer
+🔸 Build impactful, growth-oriented software solutions
+🔸 Continuously learn, explore, and apply modern technologies
+🔸 Evolve into a full-stack and AI-driven developer
+
+🌟 Fun Facts:
+💻 Passionate about coding, AI, and solving real-world problems
+🎨 Love creating innovative projects and sharing knowledge with the community
+🚀 Always curious, always learning, and always aiming higher
 
 
 ## 🌐 Socials:
