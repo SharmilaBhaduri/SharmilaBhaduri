@@ -384,19 +384,26 @@ My interest lies in combining analytical thinking with visual communication.
 
 ### 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=SharmilaBhaduri&theme=tokyonight&no-frame=true&column=4&margin-w=10" width="100%" alt="GitHub Trophies"/>
+<p align="center">
+  <a href="https://github.com/SharmilaBhaduri?tab=achievements">
+    <img src="https://img.shields.io/badge/View-GitHub%20Achievements-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Achievements"/>
+  </a>
+</p>
 
 <br/><br/>
 
 ### 📉 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharmilaBhaduri&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=SharmilaBhaduri&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
 
 <br/><br/>
 
-### 🔝 Top Contributed Repositories
+### 🔝 Featured Repositories
 
-<img src="https://github-contributor-stats.vercel.app/api?username=SharmilaBhaduri&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="90%" alt="Top Contributed Repositories"/>
+Explore some of my projects and contributions:
+
+- [Explore My Repositories](https://github.com/SharmilaBhaduri?tab=repositories)
+- [Explore My Contributions](https://github.com/SharmilaBhaduri?tab=overview)
 
 </div>
 
